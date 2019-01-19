@@ -2,7 +2,7 @@
 
 Pytorch Implementation of ALL-CNN in CIFAR10 Dataset 
 
-the model can reach $\93%$ accuracy in CIFAR-10 dataset 
+the model can reach 93% accuracy in CIFAR-10 dataset 
 
 
 ## Setting in Config
