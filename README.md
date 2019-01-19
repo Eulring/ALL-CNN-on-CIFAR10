@@ -15,7 +15,7 @@ __use_clip__: set ture to avoid the gradient explodsion.
 
 __data_aug__: using crop and flip of images to augment the data.
 
-__use_cutout__: using cutout[https://github.com/uoguelph-mlrg/Cutout] to augment the data.
+__use_cutout__: using [cutout](https://github.com/uoguelph-mlrg/Cutout) to augment the data.
 
 
 
