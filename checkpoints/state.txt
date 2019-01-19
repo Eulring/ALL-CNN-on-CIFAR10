@@ -1,0 +1,1 @@
+the folder checkpoints store the models during the training 
